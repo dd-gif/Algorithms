@@ -85,23 +85,23 @@
 
 ### [Лабораторная работа №11](http://neerc.ifmo.ru/teaching/disalgo/problems/problems11.pdf)
 
-1. [Кратчайший путь](https://github.com/dd-gif/Algorithms/blob/master/Algorithms/Lab11/11_1.cpp)
-2. [Кратчайший путь от каждой вершины до каждой](https://github.com/dd-gif/Algorithms/blob/master/Algorithms/Lab11/11_2.cpp)
-3. [Кратчайший путь](https://github.com/dd-gif/Algorithms/blob/master/Algorithms/Lab11/11_3.cpp)
-4. [Кратчайшие пути и прочее](https://github.com/dd-gif/Algorithms/blob/master/Algorithms/Lab11/11_4.cpp)
-5. [Цикл отричательного веса](https://github.com/dd-gif/Algorithms/blob/master/Algorithms/Lab11/11_5.cpp)
+1. [Кратчайший путь](https://github.com/dd-gif/Algorithms/blob/master/Algorithms/Lab11/1.cpp)
+2. [Кратчайший путь от каждой вершины до каждой](https://github.com/dd-gif/Algorithms/blob/master/Algorithms/Lab11/2.cpp)
+3. [Кратчайший путь](https://github.com/dd-gif/Algorithms/blob/master/Algorithms/Lab11/3.cpp)
+4. [Кратчайшие пути и прочее](https://github.com/dd-gif/Algorithms/blob/master/Algorithms/Lab11/4.cpp)
+5. [Цикл отричательного веса](https://github.com/dd-gif/Algorithms/blob/master/Algorithms/Lab11/5.cpp)
 
-### [Лабораторная работа №13](http://neerc.ifmo.ru/teaching/disalgo/problems/problems13.pdf)
+### [Лабораторная работа №13](http://neerc.ifmo.ru/teaching/disalgo/problems/problems12.pdf)
 
-1. [Максимальный поток](https://github.com/dd-gif/Algorithms/blob/master/Algorithms/Lab12/12_1.cpp)
-2. [Паросочетаник](https://github.com/dd-gif/Algorithms/blob/master/Algorithms/Lab12/12_2.cpp)
+1. [Максимальный поток](https://github.com/dd-gif/Algorithms/blob/master/Algorithms/Lab12/1.cpp)
+2. [Паросочетаник](https://github.com/dd-gif/Algorithms/blob/master/Algorithms/Lab12/2.cpp)
 3. [~Декомпозиция потока~](#)
 4. [~Циркуляция~](#)
 
 ### [Лабораторная работа №13](http://neerc.ifmo.ru/teaching/disalgo/problems/problems13.pdf)
 
-1. [Наивный поиск подстроки в строке](https://github.com/dd-gif/Algorithms/blob/master/Algorithms/Lab13/13_1.cpp)
-2. [Быстрый поиск подстроки в строке](https://github.com/dd-gif/Algorithms/blob/master/Algorithms/Lab13/13_2.cpp)
-3. [Префикс-функция](https://github.com/dd-gif/Algorithms/blob/master/Algorithms/Lab13/13_3.cpp)
-4. [Автомат КМП](https://github.com/dd-gif/Algorithms/blob/master/Algorithms/Lab13/13_4.cpp)
+1. [Наивный поиск подстроки в строке](https://github.com/dd-gif/Algorithms/blob/master/Algorithms/Lab13/1.cpp)
+2. [Быстрый поиск подстроки в строке](https://github.com/dd-gif/Algorithms/blob/master/Algorithms/Lab13/2.cpp)
+3. [Префикс-функция](https://github.com/dd-gif/Algorithms/blob/master/Algorithms/Lab13/3.cpp)
+4. [Автомат КМП](https://github.com/dd-gif/Algorithms/blob/master/Algorithms/Lab13/4.cpp)
 
